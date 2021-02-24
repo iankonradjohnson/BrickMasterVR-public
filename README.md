@@ -20,6 +20,6 @@ I have restricted public access to the source code for privacy reasons. Please e
 
 7/2020
 
-![BrickMasterVR Demo7/2020](https://img.youtube.com/vi//PUIs-SSMabU/0.jpg)](https://youtu.be/PUIs-SSMabU)
+[![BrickMasterVR Demo7/2020](https://img.youtube.com/vi//PUIs-SSMabU/0.jpg)](https://youtu.be/PUIs-SSMabU)
 
 
