@@ -23,6 +23,7 @@ I have restricted public access to the source code for privacy reasons. Please e
 7/2020
 [![BrickMasterVR Demo](https://img.youtube.com/vi/wP2P1QhdVnk/0.jpg)](https://youtu.be/wP2P1QhdVnk)
 
-
 6/2020
 ![BrickMasterVR Demo](BMVR-test.gif)
+
+![BrickMasterVR Demo](BMVR-first.gif)
