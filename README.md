@@ -17,6 +17,9 @@ I have restricted public access to the source code for privacy reasons. Please e
 12/2020
 ![BrickMasterVR Demo](BMVR.gif)
 
+3/2/2021
+![BrickMasterVR Demo](BMVR-UI.gif)
+
 7/2020
 ![BrickMasterVR Demo](BMVR-castle.gif)
 
